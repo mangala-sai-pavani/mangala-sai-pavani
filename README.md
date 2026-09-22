@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=200&section=header&text=Sai%20Pavani%20Mangala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Sc.%20CS%20'26&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:32191F,100:800020&height=200&section=header&text=Sai%20Pavani%20Mangala&fontSize=42&fontColor=E8D4D9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Sc.%20CS%20'26&descAlignY=58&descSize=18&descColor=E8D4D9" width="100%"/>
 
-<a href="https://linkedin.com/in/sai-pavani-mangala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/mangala-sai-pavani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sai-pavani-mangala"><img src="https://img.shields.io/badge/LinkedIn-0F0F10?style=for-the-badge&logo=linkedin&logoColor=228B22"/></a>
+<a href="https://github.com/mangala-sai-pavani"><img src="https://img.shields.io/badge/GitHub-0F0F10?style=for-the-badge&logo=github&logoColor=228B22"/></a>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+web+apps;React+%2B+Python+%2F+Node+backends;Open+to+SWE+%2F+Full-Stack+roles;Always+learning+something+new&font=Fira+Code&center=true&width=500&height=45&color=6366F1&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+web+apps;React+%2B+Python+%2F+Node+backends;Open+to+SWE+%2F+Full-Stack+roles;Always+learning+something+new&font=Fira+Code&center=true&width=500&height=45&color=800020&vCenter=true&size=22"/>
 
 </div>
 
----
+<br>
 
-### 👩‍💻 About Me
+<div align="center">
+<img src="https://img.shields.io/badge/-About%20Me-0F0F10?style=for-the-badge&labelColor=800020&color=0F0F10"/>
+</div>
 
 I'm a recent CS graduate who likes taking a project end-to-end — designing the database, building the API, and making the UI actually usable. Most of what's below started as a "let's see if I can build this" idea and turned into something real.
 
@@ -25,13 +27,26 @@ I'm a recent CS graduate who likes taking a project end-to-end — designing the
 
 📫 Reach me on [LinkedIn](https://linkedin.com/in/sai-pavani-mangala)
 
----
+<br>
 
-### 🛠️ Tech Stack
+<div align="center">
+<img src="https://img.shields.io/badge/-Tech%20Stack-0F0F10?style=for-the-badge&labelColor=228B22&color=0F0F10"/>
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,html,css,react,flask,fastapi,nodejs,express,mysql,postgres,git,github,vscode,postman&theme=dark" />
+![Python](https://img.shields.io/badge/Python-0F0F10?style=for-the-badge&logo=python&logoColor=228B22)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F0F10?style=for-the-badge&logo=javascript&logoColor=228B22)
+![SQL](https://img.shields.io/badge/SQL-0F0F10?style=for-the-badge&logo=postgresql&logoColor=228B22)
+![React](https://img.shields.io/badge/React-0F0F10?style=for-the-badge&logo=react&logoColor=800020)
+![Flask](https://img.shields.io/badge/Flask-0F0F10?style=for-the-badge&logo=flask&logoColor=800020)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F0F10?style=for-the-badge&logo=fastapi&logoColor=800020)
+![Node.js](https://img.shields.io/badge/Node.js-0F0F10?style=for-the-badge&logo=nodedotjs&logoColor=228B22)
+![Express](https://img.shields.io/badge/Express-0F0F10?style=for-the-badge&logo=express&logoColor=228B22)
+![MySQL](https://img.shields.io/badge/MySQL-0F0F10?style=for-the-badge&logo=mysql&logoColor=800020)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F0F10?style=for-the-badge&logo=postgresql&logoColor=800020)
+![Git](https://img.shields.io/badge/Git-0F0F10?style=for-the-badge&logo=git&logoColor=228B22)
+![Postman](https://img.shields.io/badge/Postman-0F0F10?style=for-the-badge&logo=postman&logoColor=228B22)
 
 </div>
 
@@ -47,9 +62,11 @@ I'm a recent CS graduate who likes taking a project end-to-end — designing the
 
 </details>
 
----
+<br>
 
-### 🚀 Featured Projects
+<div align="center">
+<img src="https://img.shields.io/badge/-Featured%20Projects-0F0F10?style=for-the-badge&labelColor=800020&color=0F0F10"/>
+</div>
 
 <table>
 <tr>
@@ -99,20 +116,22 @@ E-commerce style storefront — product browsing, responsive UI, REST API integr
 </tr>
 </table>
 
----
+<br>
 
-### 📊 GitHub Stats
+<div align="center">
+<img src="https://img.shields.io/badge/-GitHub%20Stats-0F0F10?style=for-the-badge&labelColor=228B22&color=0F0F10"/>
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mangala-sai-pavani&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangala-sai-pavani&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mangala-sai-pavani&show_icons=true&hide_border=true&count_private=true&bg_color=0F0F10&title_color=228B22&icon_color=800020&text_color=800020" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangala-sai-pavani&layout=compact&hide_border=true&bg_color=0F0F10&title_color=228B22&text_color=800020" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=mangala-sai-pavani&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=mangala-sai-pavani&hide_border=true&background=0F0F10&ring=228B22&fire=800020&currStreakLabel=228B22&sideNums=800020&currStreakNum=800020&dates=800020&stroke=228B22" />
 
 </div>
 
----
+<br>
 
 <!-- SNAKE_START -->
 <div align="center">
