@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32191F,100:800020&height=200&section=header&text=Sai%20Pavani%20Mangala&fontSize=42&fontColor=E8D4D9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Sc.%20CS%20'26&descAlignY=58&descSize=18&descColor=E8D4D9" width="100%"/>
 
-<a href="https://linkedin.com/in/sai-pavani-mangala"><img src="https://img.shields.io/badge/LinkedIn-0F0F10?style=for-the-badge&logo=linkedin&logoColor=228B22"/></a>
-<a href="https://github.com/mangala-sai-pavani"><img src="https://img.shields.io/badge/GitHub-0F0F10?style=for-the-badge&logo=github&logoColor=228B22"/></a>
+<a href="https://linkedin.com/in/sai-pavani-mangala"><img src="https://img.shields.io/badge/LinkedIn-32191F?style=for-the-badge&logo=linkedin&logoColor=E8D4D9"/></a>
+<a href="https://github.com/mangala-sai-pavani"><img src="https://img.shields.io/badge/GitHub-32191F?style=for-the-badge&logo=github&logoColor=E8D4D9"/></a>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+web+apps;React+%2B+Python+%2F+Node+backends;Open+to+SWE+%2F+Full-Stack+roles;Always+learning+something+new&font=Fira+Code&center=true&width=500&height=45&color=800020&vCenter=true&size=22"/>
 
@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-About%20Me-0F0F10?style=for-the-badge&labelColor=800020&color=0F0F10"/>
+<img src="https://img.shields.io/badge/-About%20Me-32191F?style=for-the-badge&labelColor=800020&color=32191F"/>
 </div>
 
 I'm a recent CS graduate who likes taking a project end-to-end — designing the database, building the API, and making the UI actually usable. Most of what's below started as a "let's see if I can build this" idea and turned into something real.
@@ -30,23 +30,23 @@ I'm a recent CS graduate who likes taking a project end-to-end — designing the
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-Tech%20Stack-0F0F10?style=for-the-badge&labelColor=228B22&color=0F0F10"/>
+<img src="https://img.shields.io/badge/-Tech%20Stack-32191F?style=for-the-badge&labelColor=E8D4D9&color=32191F"/>
 </div>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0F0F10?style=for-the-badge&logo=python&logoColor=228B22)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F0F10?style=for-the-badge&logo=javascript&logoColor=228B22)
-![SQL](https://img.shields.io/badge/SQL-0F0F10?style=for-the-badge&logo=postgresql&logoColor=228B22)
-![React](https://img.shields.io/badge/React-0F0F10?style=for-the-badge&logo=react&logoColor=800020)
-![Flask](https://img.shields.io/badge/Flask-0F0F10?style=for-the-badge&logo=flask&logoColor=800020)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F0F10?style=for-the-badge&logo=fastapi&logoColor=800020)
-![Node.js](https://img.shields.io/badge/Node.js-0F0F10?style=for-the-badge&logo=nodedotjs&logoColor=228B22)
-![Express](https://img.shields.io/badge/Express-0F0F10?style=for-the-badge&logo=express&logoColor=228B22)
-![MySQL](https://img.shields.io/badge/MySQL-0F0F10?style=for-the-badge&logo=mysql&logoColor=800020)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F0F10?style=for-the-badge&logo=postgresql&logoColor=800020)
-![Git](https://img.shields.io/badge/Git-0F0F10?style=for-the-badge&logo=git&logoColor=228B22)
-![Postman](https://img.shields.io/badge/Postman-0F0F10?style=for-the-badge&logo=postman&logoColor=228B22)
+![Python](https://img.shields.io/badge/Python-32191F?style=for-the-badge&logo=python&logoColor=E8D4D9)
+![JavaScript](https://img.shields.io/badge/JavaScript-32191F?style=for-the-badge&logo=javascript&logoColor=E8D4D9)
+![SQL](https://img.shields.io/badge/SQL-32191F?style=for-the-badge&logo=postgresql&logoColor=E8D4D9)
+![React](https://img.shields.io/badge/React-32191F?style=for-the-badge&logo=react&logoColor=800020)
+![Flask](https://img.shields.io/badge/Flask-32191F?style=for-the-badge&logo=flask&logoColor=800020)
+![FastAPI](https://img.shields.io/badge/FastAPI-32191F?style=for-the-badge&logo=fastapi&logoColor=800020)
+![Node.js](https://img.shields.io/badge/Node.js-32191F?style=for-the-badge&logo=nodedotjs&logoColor=E8D4D9)
+![Express](https://img.shields.io/badge/Express-32191F?style=for-the-badge&logo=express&logoColor=E8D4D9)
+![MySQL](https://img.shields.io/badge/MySQL-32191F?style=for-the-badge&logo=mysql&logoColor=800020)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-32191F?style=for-the-badge&logo=postgresql&logoColor=800020)
+![Git](https://img.shields.io/badge/Git-32191F?style=for-the-badge&logo=git&logoColor=E8D4D9)
+![Postman](https://img.shields.io/badge/Postman-32191F?style=for-the-badge&logo=postman&logoColor=E8D4D9)
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a recent CS graduate who likes taking a project end-to-end — designing the
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-Featured%20Projects-0F0F10?style=for-the-badge&labelColor=800020&color=0F0F10"/>
+<img src="https://img.shields.io/badge/-Featured%20Projects-32191F?style=for-the-badge&labelColor=800020&color=32191F"/>
 </div>
 
 <table>
@@ -119,15 +119,15 @@ E-commerce style storefront — product browsing, responsive UI, REST API integr
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-GitHub%20Stats-0F0F10?style=for-the-badge&labelColor=228B22&color=0F0F10"/>
+<img src="https://img.shields.io/badge/-GitHub%20Stats-32191F?style=for-the-badge&labelColor=E8D4D9&color=32191F"/>
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mangala-sai-pavani&show_icons=true&hide_border=true&count_private=true&bg_color=0F0F10&title_color=228B22&icon_color=800020&text_color=800020" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangala-sai-pavani&layout=compact&hide_border=true&bg_color=0F0F10&title_color=228B22&text_color=800020" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mangala-sai-pavani&show_icons=true&hide_border=true&count_private=true&bg_color=32191F&title_color=800020&icon_color=800020&text_color=E8D4D9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangala-sai-pavani&layout=compact&hide_border=true&bg_color=32191F&title_color=800020&text_color=E8D4D9" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=mangala-sai-pavani&hide_border=true&background=0F0F10&ring=228B22&fire=800020&currStreakLabel=228B22&sideNums=800020&currStreakNum=800020&dates=800020&stroke=228B22" />
+<img src="https://streak-stats.demolab.com/?user=mangala-sai-pavani&hide_border=true&background=32191F&ring=800020&fire=800020&currStreakLabel=800020&sideNums=E8D4D9&currStreakNum=E8D4D9&dates=E8D4D9&stroke=800020" />
 
 </div>
 
